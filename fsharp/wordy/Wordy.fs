@@ -1,5 +1,7 @@
 module Wordy
 
+// 累乗の parse には対応してない
+
 //#r "nuget: FParsec"
 open FParsec
 
